@@ -2,7 +2,7 @@
 web3j文档中文翻译
 [原文链接](https://docs.web3j.io/)
 ## 导航
-[快速开始（Quickstart）](https://docs.web3j.io/)</br>
+[快速开始（Quickstart）](https://github.com/ethjava/web3j-doc-zh/tree/master/docs/quickstart.md)</br>
 [入门（Getting Started）](https://docs.web3j.io/)</br>
 [模块（Modules）](https://docs.web3j.io/)</br>
 [交易（Transactions）](https://docs.web3j.io/)</br>
