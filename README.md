@@ -15,6 +15,3 @@ web3j文档中文翻译
 [在web3j中使用Infura（Using Infura with web3j）](https://docs.web3j.io/)</br>
 [以太坊名称解析服务（Ethereum Name Service）](https://docs.web3j.io/)</br>
 [故障排除（Troubleshooting）](https://docs.web3j.io/)</br>
-[故障排除（Troubleshooting）](https://docs.web3j.io/)</br>
-[故障排除（Troubleshooting）](https://docs.web3j.io/)</br>
-
